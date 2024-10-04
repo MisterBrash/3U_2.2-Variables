@@ -1,10 +1,15 @@
 /**
- * 2.1 - Console vs. Document
+ * 2.2 - Variables and Math
  * ICS3 - Mr. Brash 🐿️
  * 
- * What you see here is a block comment. More on that later. READ THE INSTRUCTIONS
+ * Make sure to read the README.md (especially if you missed class)
+ * Then checkout the YOUR_TASK.md to see the practice plan
+ * 
+ * Don't forget - these are playgrounds. Once you finish the requested task, fee free to play.
  **/ 
 
 
-// Feel free to delete this line when starting the task
-console.log("Hello world!")
+// Some example variables
+let it_is_christmas = false
+let teaching_partner = "Mr. Squirrel"
+let number_of_students = 27
