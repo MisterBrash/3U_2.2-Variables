@@ -1,5 +1,5 @@
 # 2.2 - Variables & Math
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3 - Mr. Brash 🐿️
 
 
 Work in progress...
