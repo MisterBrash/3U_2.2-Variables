@@ -41,7 +41,27 @@ let multiplied_value = x * 4;   // This would be 12
 
 ##### Part 3
 
-There is a way to print out the _type_ of a variable (just in case you needed to check). 
+There is a way to print out the _type_ of a variable (just in case you needed to check). The keyword is `typeof` and it works like this:
+```JS
+console.log(typeof side_length)
+```
 
+- Have JavaScript print out the _type_ of your `area` and `last_name` variables.
+
+##### Part 4
+
+_Variables_ are called that because they can change. But what if you don't want the variable to change - even by accident? Most programming languages have a special type of variable called a `constant`. These can be used for math and output, but they cannot be adjusted. The keyword for a _constant_ in JavaScript is `const`. Example:
+```js
+const e = 2.71828
+```
+1. Create a constant to represent π (3.14).
+2. Create a variable for the _radius_ of a circle.
+3. Calculate and output the area of the circle using your π constant and _radius_ variable.
+
+<br>
+
+---
+
+<br>
 
 🕒 If you finish with class time left, you can do independent learning.
