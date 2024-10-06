@@ -13,7 +13,7 @@
 
 Some people prefer to have the developer tools at the bottom of the browser window. The options are under the kabob menu.
 
-<img src="./.vscode/console_dock.png" style="display:block;margin:auto;" width="200px">
+<img src="./.vscode/console_dock.png" style="display:block;margin:auto;filter:drop-shadow(3px 3px 4px grey)" width="200px">
 <br>
 
 ---
