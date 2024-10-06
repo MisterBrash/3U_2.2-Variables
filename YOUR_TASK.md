@@ -1,5 +1,6 @@
-### 2.2 - Variables & Math
-###### ICS3 - Mr. Brash 🐿️
+### 2.2 - Variables
+
+##### ICS3 - Mr. Brash 🐿️
 
 # 📝 Your Task:
 (Read carefully and work with a partner if you are struggling - ask Mr. Brash only after asking a classmate)
