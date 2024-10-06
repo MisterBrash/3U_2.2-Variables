@@ -1,7 +1,7 @@
 # 2.2 - Variables & Math
 ##### ICS3 - Mr. Brash 🐿️
 
-### If you missed the live demonstration in class, read below. Otherwise you can check out [your task](./YOUR_TASK.md)
+### If you missed the live demonstration in class, read below. Otherwise you can check out [your task](./YOUR_TASK.md).
 
 Giving output is fairly easy with `console.log( )`. But what if we wanted to **_hold a value_** to be used later or for calculations?
 Perhaps we want to hold a lot of values like a the locations of items in a 3D space, a list of colours, phone numbers, or financials.
@@ -76,19 +76,29 @@ Strings _cannot_ be subtracted!
 myString = "This and that" - "that";   //  not possible
 ```
 
+## 💻 Try it:
+- Go back to [the code file](./main.js)
+- Change your output line to this: `console.log("I am " + age + " years old.")`
+- Go to the console to see the output.
+
+<hr> 
+
 ### Booleans (true or false)
-Anything with value is considered 'true'
+Not very helpful _right now_ but a variable can be TRUE or FALSE to help with logic
 ```JS
-let sample = true; // obviously true
-let sample1 = 5;   // considered true
-let sample2 = 0;   // considered false
-let sample3;       // considered false
+let sample = true;   // obviously true
+let sample0 = false; // obviously false
+let sample1 = 5;     // considered true
+let sample2 = 0;     // considered false
+let sample3;         // considered false
 ```
 
 Need more help on variables?
 ([Tutorial on variables](https://javascript.info/variables)) ([w3schools reference](https://www.w3schools.com/js/js_variables.asp))
 
 ---
+
+
 
 ### Go check out [your task](./YOUR_TASK.md).
 
