@@ -5,7 +5,7 @@
  * Make sure to read the README.md (especially if you missed class)
  * Then checkout the YOUR_TASK.md to see the practice plan
  * 
- * Don't forget - these are playgrounds. Once you finish the requested task, fee free to play.
+ * Don't forget - these are playgrounds. Once you finish the requested task, feel free to play.
  **/ 
 
 
